@@ -13,6 +13,6 @@ def output_array
 end
 
 
-def loop_message_n_times
+def return_string_array
   
 end
