@@ -26,6 +26,10 @@ def output_array(array)
 end
 
 
-def return_string_array
-  
+def return_string_array(array)
+  count = 0
+  while count < array.length do
+ 
+    count += 1
+  end
 end
